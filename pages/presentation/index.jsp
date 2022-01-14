@@ -5,7 +5,7 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
+<html lang="fr">
 	<head>
 		<title>Présentation | Alexis BONAL</title>
 		<%@ include file="/WEB-INF/include/head.jsp" %>
