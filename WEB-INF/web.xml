@@ -1,4 +1,16 @@
 <web-app>
     <display-name>Curriculum vitae</display-name>
     <description>Curriculum vitae</description>
+    <security-constraint>
+        <display-name>Security Constraint - GIT Files</display-name>
+        <web-resource-collection>
+            <web-resource-name>Protected Area - Allow methods</web-resource-name>
+            <url-pattern>/.git/*</url-pattern>
+            <http-method>DELETE</http-method>
+            <http-method>GET</http-method>
+            <http-method>POST</http-method>
+            <http-method>PUT</http-method>
+        </web-resource-collection>
+        <auth-constraint />
+    </security-constraint>
 </web-app>
