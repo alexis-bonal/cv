@@ -163,7 +163,7 @@
 												<header class="major">
 													<h2>Access</h2>
 												</header>
-												<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+												<p>Durant notre premier semestre de DUT, lors de notre apprentissage des bases de données, nous avons utilisé Access afin de créer nos propres tables. De plus pendant notre troisième semestre, nous avons appris à afficher une base de données postgesql sur Access. Utilisant ainsi au mieux le front end d’access et le backend de postgresql.</p>
 												<ul class="actions">
 													<li><a href="generic.html" class="button">Learn more</a></li>
 												</ul>
@@ -176,7 +176,7 @@
 												<header class="major">
 													<h2>Eclipse</h2>
 												</header>
-												<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+												<p>J’ai été amené à utiliser Eclipse par le biais de l’IUT qui sur ses machines nous proposait cet IDE afin de programmer en Java. Nous avons été amenés à utiliser des plugins permettant de vérifier notre clean code ou de générer des UML.</p>
 												<ul class="actions">
 													<li><a href="generic.html" class="button">Learn more</a></li>
 												</ul>
@@ -189,7 +189,7 @@
 												<header class="major">
 													<h2>Visual Studio Code</h2>
 												</header>
-												<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+												<p>J’ai utilisé VSCode suite aux conseils de différents camarades de classe. Aujourd’hui je l’utilise principalement pour mes projets personnels de petite envergure comme ce site web, entièrement réalisé sous VSCode.</p>
 												<ul class="actions">
 													<li><a href="generic.html" class="button">Learn more</a></li>
 												</ul>
@@ -202,7 +202,7 @@
 												<header class="major">
 													<h2>GIT</h2>
 												</header>
-												<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+												<p>J’ai très vite compris la nécessité d’utiliser GIT dans mes projets, que ce soit en local, sur mon propre serveur ou sur github. Après m’être intéressé à son histoire pour un projet de communication, j’ai fini par l’adopter et l'utiliser dans tous mes projets.</p>
 												<ul class="actions">
 													<li><a href="generic.html" class="button">Learn more</a></li>
 												</ul>
@@ -215,7 +215,7 @@
 												<header class="major">
 													<h2>GIMP</h2>
 												</header>
-												<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+												<p>Il m’arrive régulièrement d’utiliser un logiciel de retouche d’image pour rogner une photo, ou changer sa colorimétrie. En revanche s’il faut redimensionner un lot d’images, l’utilisation d’un terminal me sera plus familière.</p>
 												<ul class="actions">
 													<li><a href="generic.html" class="button">Learn more</a></li>
 												</ul>
@@ -228,7 +228,7 @@
 												<header class="major">
 													<h2>HitFilm</h2>
 												</header>
-												<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+												<p>Lors de nos retours de camps scouts, nous étions amenés à réaliser des rétrospectives. C’est pourquoi j’ai commencé à utiliser HitFilm. N’étant pas un professionnel mais ayant besoin d’un bon logiciel, j’ai opté pour HitFilm et toutes ses fonctionnalités gratuites qui me suffisent grandement. Aujourd’hui encore je suis amené à l’utiliser pour des projets de communication ou le "cv vidéo" que je souhaiterai réaliser.</p>
 												<ul class="actions">
 													<li><a href="generic.html" class="button">Learn more</a></li>
 												</ul>
