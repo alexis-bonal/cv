@@ -8,5 +8,6 @@
         <li><a href="/cv/pages/softskills">Soft Skills</a></li>
         <li><a href="/cv/pages/hobbies">Hobbies</a></li>
         <li><a href="/cv/pages/projets">Projets</a></li>
+        <li><a href="/cv/resources/cv-alexis-bonal.pdf" download="cv-alexis-bonal.pdf" class="button icon solid fa-download">cv.pdf</a></li>
     </ul>
 </nav>
