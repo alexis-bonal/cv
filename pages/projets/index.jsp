@@ -29,7 +29,7 @@
 								<img src="/cv/images/projets/projets-large.jpg" alt="" />
 							</span>
 							<header class="major">
-								<h1>Projets</h1>
+								<h1>Projets (page en travaux)</h1>
 							</header>
 							<div class="content">
 								<p>Mes réalisations terminées et en cours</p>
