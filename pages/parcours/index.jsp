@@ -10,6 +10,7 @@
 		<title>Alexis BONAL</title>
 		<link rel="stylesheet" href="/cv/assets/css/timeline.css" />
 		<%@ include file="/WEB-INF/include/head.jsp" %>
+		<script src="/cv/assets/js/timeline.js" defer></script>
 	</head>
 	<body class="is-preload">
 
@@ -149,10 +150,6 @@
 					<%@ include file="/WEB-INF/include/footer.jsp" %>
 
 			</div>
-
-		<!-- Scripts -->
-			<%@ include file="/WEB-INF/include/scripts.jsp" %>
-			<script src="/cv/assets/js/timeline.js"></script>
 
 	</body>
 </html>

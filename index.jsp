@@ -109,8 +109,5 @@
 
 			</div>
 
-		<!-- Scripts -->
-			<%@ include file="/WEB-INF/include/scripts.jsp" %>
-
 	</body>
 </html>
