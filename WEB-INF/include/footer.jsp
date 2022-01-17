@@ -10,7 +10,7 @@
             <li><a href="https://www.instagram.com/alexis_bonal/" class="icon brands alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
         </ul>
         <ul class="copyright">
-            <li>Copyright © 2021 <a href="http://www.alexis-bonal.fr" target="_blank">Alexis BONAL</a> / Modifié le à </li><li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a>, <a href="https://codepen.io/joshyfrancis/pen/KePdEN">Timeline</a></li>
+            <li>Copyright © 2021 <a href="https://alexis-bonal.fr" target="_blank">Alexis BONAL</a> / Modifié le à </li><li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a>, <a href="https://codepen.io/joshyfrancis/pen/KePdEN" target="_blank">Timeline</a></li>
         </ul>
     </div>
 </footer>
