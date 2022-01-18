@@ -53,7 +53,7 @@
 											</header>
 											<p>J'ai eu de nombreuses fois l'occasion de vivre en communauté durant plusieurs semaines avec un même groupe. Que ce soit grâce au scoutisme ou durant l'animation de colonies, j'ai appris à vivre en groupe et j'ai compris que pour faire avancer un groupe chaque membre de ce groupe doit donner du sien.</p>
 											<ul class="actions">
-												<li><a href="generic.html" class="button">En savoir plus</a></li>
+												<li><a href="vivre-ensemble.jsp" class="button">En savoir plus</a></li>
 											</ul>
 										</div>
 									</div>
