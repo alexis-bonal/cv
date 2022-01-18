@@ -44,48 +44,48 @@
 							<section id="one" class="spotlights">
 								<section>
 									<a href="generic.html" class="image">
-										<img src="images/pic08.jpg" alt="" data-position="center center" />
+										<img src="/cv/images/softskills/softskills-small.jpg" alt="" data-position="center center" />
 									</a>
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Orci maecenas</h3>
+												<h3>L'Esprit d'Équipe & Savoir Vivre Ensemble</h3>
 											</header>
-											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<p>J'ai eu de nombreuses fois l'occasion de vivre en communauté durant plusieurs semaines avec un même groupe. Que ce soit grâce au scoutisme ou durant l'animation de colonies, j'ai appris à vivre en groupe et j'ai compris que pour faire avancer un groupe chaque membre de ce groupe doit donner du sien.</p>
 											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
+												<li><a href="generic.html" class="button">En savoir plus</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a href="generic.html" class="image">
-										<img src="images/pic09.jpg" alt="" data-position="top center" />
+										<img src="/cv/images/softskills/softskills-small.jpg" alt="" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Rhoncus magna</h3>
+												<h3>Le sens du service</h3>
 											</header>
-											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<p>Rendre service c'est s'ouvrir aux autres, c'est prendre le temps de comprendre les besoins d'autrui et de savoir y répondre. J'ai eu la chance de pouvoir me rendre à Lourdes, auprès des hospitaliers et des malades pour leur donner la chance d'assister aux cérémonies et évènements du lieu. Rendre service ne s'arrête pas là, c'est au quotidien que l'on peut donner de sa personne.</p>
 											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
+												<li><a href="generic.html" class="button">En savoir plus</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a href="generic.html" class="image">
-										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+										<img src="/cv/images/softskills/softskills-small.jpg" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Sed nunc ligula</h3>
+												<h3>La Gestion de Groupe</h3>
 											</header>
-											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<p>Lorsque dans un groupe, nous devions choisir un responsable, la majorité me choisissait pour mon sérieux, mon implication ou l'attention que je porte à chacun. Chez les scouts, j'ai pû être chef d'équipe, prenant ainsi la responsabilité des projets que nous menions à l'année.</p>
 											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
+												<li><a href="generic.html" class="button">En savoir plus</a></li>
 											</ul>
 										</div>
 									</div>
