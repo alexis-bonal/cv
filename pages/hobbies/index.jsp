@@ -43,7 +43,7 @@
 						<!-- One -->
 						<section id="one" class="spotlights">
 							<section>
-								<a href="vivre-ensemble.jsp" class="image">
+								<a href="vtt.jsp" class="image">
 									<img src="/cv/images/hobbies/hobbies-small.jpg" alt="" data-position="center center" />
 								</a>
 								<div class="content">
@@ -53,7 +53,7 @@
 										</header>
 										<p>Je pratique le VTT XC depuis le début de mon collège. C'est devenu bien plus qu'un simple moyen de transport ou de randonnées lorsque j'ai adhéré au club Beauvais Bike. En effet, suite à mon inscription, j'ai participé aux championnats départementaux qui m'ont permis de me qualifier pour les régionaux et les nationaux.</p>
 										<ul class="actions">
-											<li><a href="vivre-ensemble.jsp" class="button">En savoir plus</a></li>
+											<li><a href="vtt.jsp" class="button">En savoir plus</a></li>
 										</ul>
 									</div>
 								</div>
