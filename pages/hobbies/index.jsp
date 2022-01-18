@@ -59,7 +59,7 @@
 								</div>
 							</section>
 							<section>
-								<a href="service.jsp" class="image">
+								<a href="scout.jsp" class="image">
 									<img src="/cv/images/hobbies/hobbies-small.jpg" alt="" data-position="top center" />
 								</a>
 								<div class="content">
@@ -69,7 +69,7 @@
 										</header>
 										<p>Je me suis engagé chez les Scouts et Guides de France il y a désormais 8 ans. J'ai pû forger de solides amitiés et réaliser de nombreux projets et camps durant toutes ces années. Le dernier en date fût le camp en Grêce d'août 2021 où notre équipe de Compagnons a aidé l'association des Soeurs de la Charité.</p>
 										<ul class="actions">
-											<li><a href="service.jsp" class="button">En savoir plus</a></li>
+											<li><a href="scout.jsp" class="button">En savoir plus</a></li>
 										</ul>
 									</div>
 								</div>
