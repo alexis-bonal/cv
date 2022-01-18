@@ -75,7 +75,7 @@
 								</div>
 							</section>
 							<section>
-								<a href="groupe.jsp" class="image">
+								<a href="informatique.jsp" class="image">
 									<img src="/cv/images/hobbies/hobbies-small.jpg" alt="" data-position="25% 25%" />
 								</a>
 								<div class="content">
@@ -85,7 +85,7 @@
 										</header>
 										<p>L'informatique n'est pas seulement le domaine dans lequel je souhaite exercer mon métier. C'est avant tout une passion qui est née de ma curiosité à vouloir comprendre comment fonctionnent les machines qui suivent notre quotidien.</p>
 										<ul class="actions">
-											<li><a href="groupe.jsp" class="button">En savoir plus</a></li>
+											<li><a href="informatique.jsp" class="button">En savoir plus</a></li>
 										</ul>
 									</div>
 								</div>
