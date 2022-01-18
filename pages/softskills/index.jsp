@@ -29,10 +29,10 @@
 								<img src="/cv/images/softskills/softskills-large.jpg" alt="" />
 							</span>
 							<header class="major">
-								<h1>Soft Skills (page en travaux)</h1>
+								<h1>Soft Skills</h1>
 							</header>
 							<div class="content">
-								<p>Mes qualités humaines</p>
+								<p>Mes aptitudes et mes compétences humaines</p>
 							</div>
 						</div>
 					</section>

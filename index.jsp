@@ -76,7 +76,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="/cv/pages/softskills" class="link">Soft Skills</a></h3>
-										<p>Mes qualités humaines</p>
+										<p>Mes aptitudes et mes compétences humaines</p>
 									</header>
 								</article>
 								<article>
