@@ -41,80 +41,56 @@
 					<div id="main">
 
 						<!-- One -->
-							<section id="one">
-								<div class="inner">
-									<header class="major">
-										<h2>Sed amet aliquam</h2>
-									</header>
-									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+						<section id="one" class="spotlights">
+							<section>
+								<a href="vivre-ensemble.jsp" class="image">
+									<img src="/cv/images/hobbies/hobbies-small.jpg" alt="" data-position="center center" />
+								</a>
+								<div class="content">
+									<div class="inner">
+										<header class="major">
+											<h3>Le VTT</h3>
+										</header>
+										<p>Je pratique le VTT XC depuis le début de mon collège. C'est devenu bien plus qu'un simple moyen de transport ou de randonnées lorsque j'ai adhéré au club Beauvais Bike. En effet, suite à mon inscription, j'ai participé aux championnats départementaux qui m'ont permis de me qualifier pour les régionaux et les nationaux.</p>
+										<ul class="actions">
+											<li><a href="vivre-ensemble.jsp" class="button">En savoir plus</a></li>
+										</ul>
+									</div>
 								</div>
 							</section>
-
-						<!-- Two -->
-							<section id="two" class="spotlights">
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic08.jpg" alt="" data-position="center center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Orci maecenas</h3>
-											</header>
-											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
+							<section>
+								<a href="service.jsp" class="image">
+									<img src="/cv/images/hobbies/hobbies-small.jpg" alt="" data-position="top center" />
+								</a>
+								<div class="content">
+									<div class="inner">
+										<header class="major">
+											<h3>Le Scoutisme</h3>
+										</header>
+										<p>Je me suis engagé chez les Scouts et Guides de France il y a désormais 8 ans. J'ai pû forger de solides amitiés et réaliser de nombreux projets et camps durant toutes ces années. Le dernier en date fût le camp en Grêce d'août 2021 où notre équipe de Compagnons a aidé l'association des Soeurs de la Charité.</p>
+										<ul class="actions">
+											<li><a href="service.jsp" class="button">En savoir plus</a></li>
+										</ul>
 									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic09.jpg" alt="" data-position="top center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Rhoncus magna</h3>
-											</header>
-											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Sed nunc ligula</h3>
-											</header>
-											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-							</section>
-
-						<!-- Three -->
-							<section id="three">
-								<div class="inner">
-									<header class="major">
-										<h2>Massa libero</h2>
-									</header>
-									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-									<ul class="actions">
-										<li><a href="generic.html" class="button next">Get Started</a></li>
-									</ul>
 								</div>
 							</section>
-
+							<section>
+								<a href="groupe.jsp" class="image">
+									<img src="/cv/images/hobbies/hobbies-small.jpg" alt="" data-position="25% 25%" />
+								</a>
+								<div class="content">
+									<div class="inner">
+										<header class="major">
+											<h3>L'informatique</h3>
+										</header>
+										<p>L'informatique n'est pas seulement le domaine dans lequel je souhaite exercer mon métier. C'est avant tout une passion qui est née de ma curiosité à vouloir comprendre comment fonctionnent les machines qui suivent notre quotidien.</p>
+										<ul class="actions">
+											<li><a href="groupe.jsp" class="button">En savoir plus</a></li>
+										</ul>
+									</div>
+								</div>
+							</section>
+						</section>
 
 				<!-- Contact -->
 					<%@ include file="/WEB-INF/include/contact.jsp" %>
