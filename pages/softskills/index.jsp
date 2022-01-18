@@ -75,7 +75,7 @@
 									</div>
 								</section>
 								<section>
-									<a href="generic.html" class="image">
+									<a href="groupe.jsp" class="image">
 										<img src="/cv/images/softskills/softskills-small.jpg" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
@@ -85,7 +85,7 @@
 											</header>
 											<p>Lorsque dans un groupe, nous devions choisir un responsable, la majorité me choisissait pour mon sérieux, mon implication ou l'attention que je porte à chacun. Chez les scouts, j'ai pû être chef d'équipe, prenant ainsi la responsabilité des projets que nous menions à l'année.</p>
 											<ul class="actions">
-												<li><a href="generic.html" class="button">En savoir plus</a></li>
+												<li><a href="groupe.jsp" class="button">En savoir plus</a></li>
 											</ul>
 										</div>
 									</div>
