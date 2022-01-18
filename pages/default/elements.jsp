@@ -450,8 +450,5 @@ print 'It took ' + i + ' iterations to sort the deck.';
 
 			</div>
 
-		<!-- Scripts -->
-			<%@ include file="/WEB-INF/include/scripts.jsp" %>
-
 	</body>
 </html>
