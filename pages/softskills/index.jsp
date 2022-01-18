@@ -43,7 +43,7 @@
 						<!-- One -->
 							<section id="one" class="spotlights">
 								<section>
-									<a href="generic.html" class="image">
+									<a href="vivre-ensemble.jsp" class="image">
 										<img src="/cv/images/softskills/softskills-small.jpg" alt="" data-position="center center" />
 									</a>
 									<div class="content">
@@ -59,7 +59,7 @@
 									</div>
 								</section>
 								<section>
-									<a href="generic.html" class="image">
+									<a href="service.jsp" class="image">
 										<img src="/cv/images/softskills/softskills-small.jpg" alt="" data-position="top center" />
 									</a>
 									<div class="content">
@@ -69,7 +69,7 @@
 											</header>
 											<p>Rendre service c'est s'ouvrir aux autres, c'est prendre le temps de comprendre les besoins d'autrui et de savoir y répondre. J'ai eu la chance de pouvoir me rendre à Lourdes, auprès des hospitaliers et des malades pour leur donner la chance d'assister aux cérémonies et évènements du lieu. Rendre service ne s'arrête pas là, c'est au quotidien que l'on peut donner de sa personne.</p>
 											<ul class="actions">
-												<li><a href="generic.html" class="button">En savoir plus</a></li>
+												<li><a href="service.jsp" class="button">En savoir plus</a></li>
 											</ul>
 										</div>
 									</div>
