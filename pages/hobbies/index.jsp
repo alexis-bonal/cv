@@ -29,7 +29,7 @@
 								<img src="/cv/images/hobbies/hobbies-large.jpg" alt="" />
 							</span>
 							<header class="major">
-								<h1>Hobbies (page en travaux)</h1>
+								<h1>Hobbies</h1>
 							</header>
 							<div class="content">
 								<p>Mes passions en dehors des cours</p>
