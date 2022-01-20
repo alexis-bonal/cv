@@ -8,7 +8,7 @@
 <html lang="fr">
 	<head>
 		<title>Alexis BONAL</title>
-		<link rel="stylesheet" href="/cv/assets/css/timeline.css" />
+		<link rel="stylesheet" href="/cv/assets/css/timeline2.css" />
 		<%@ include file="/WEB-INF/include/head.jsp" %>
 		<script src="/cv/assets/js/timeline.js" defer></script>
 	</head>
