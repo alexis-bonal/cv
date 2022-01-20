@@ -141,7 +141,7 @@
 									</li>
 								</ul>
 							</div>
-						</div>
+					</div>
 
 				<!-- Contact -->
 					<%@ include file="/WEB-INF/include/contact.jsp" %>
