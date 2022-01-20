@@ -8,7 +8,9 @@
 <html lang="fr">
 	<head>
 		<title>Alexis BONAL</title>
+		<link rel="stylesheet" href="/cv/assets/css/timeline.css" />
 		<%@ include file="/WEB-INF/include/head.jsp" %>
+		<script src="/cv/assets/js/timeline.js" defer></script>
 	</head>
 	<body class="is-preload">
 
@@ -40,80 +42,97 @@
 				<!-- Main -->
 					<div id="main">
 
-						<!-- One -->
-							<section id="one">
-								<div class="inner">
-									<header class="major">
-										<h2>Sed amet aliquam</h2>
-									</header>
-									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-								</div>
-							</section>
+						<!-- Timeline -->
+							<div class="timeline2">
+								<ul>
+									<li>
+										<div>
+											<time>
+												3Dioptres
+											</time>
+											<span>
+												Un moteur 3D en Java.
+											</span>
+										</div>
+										<span class="time">
+											<span>oct 2021</span><br />
+											<span>jan 2022</span>
+										</span>
+									</li>
+									<li>
+										<div>
+											<time>
+												La Maison du professeur Eco
+											</time>
+											<span>
+												Activité ludique pour sensibiliser les enfants sur la consommation des appareils.
+											</span>
+										</div>
+										<span class="time">
+											<span>xxx 2021</span><br>
+											<span>xxx 2021</span>
+										</span>
+									</li>
+									<li>
+										<div>
+											<time>
+												RGB to GRAY
+											</time>
+											<span>
+												Solution à la prévisualisation des couleurs avant impression.
+											</span>
+										</div>
+										<span class="time">
+											<span>xxx 2021</span><br>
+											<span>xxx 2021</span>
+										</span>
+									</li>
+									<li>
+										<div>
+											<time>
+												Sokoban
+											</time>
+											<span>
+												Réalisation d'un Sokoban en mode textuel.
+											</span>
+										</div>
+										<span class="time">
+											<span>xxx 2021</span><br>
+											<span>xxx 2021</span>
+										</span>
+									</li>
+									<li>
+										<div>
+											<time>
+												Démineur
+											</time>
+											<span>
+												Démineur en mode textuel.
+											</span>
+										</div>
+										<span class="time">
+											<span>xxx 2021</span><br>
+											<span>xxx 2021</span>
+										</span>
+									</li>
+									<li>
+										<div>
+											<time>
+												Worlderfull
+											</time>
+											<span>
+												Jeu Ludo-Éducatif en mode textuel dans un univers fantastique.
+											</span>
+										</div>
+										<span class="time">
+											<span>xxx 2020</span><br>
+											<span>xxx 2020</span>
+										</span>
+									</li>
+								</ul>
+							</div>
 
-						<!-- Two -->
-							<section id="two" class="spotlights">
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic08.jpg" alt="" data-position="center center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Orci maecenas</h3>
-											</header>
-											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic09.jpg" alt="" data-position="top center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Rhoncus magna</h3>
-											</header>
-											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Sed nunc ligula</h3>
-											</header>
-											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-							</section>
-
-						<!-- Three -->
-							<section id="three">
-								<div class="inner">
-									<header class="major">
-										<h2>Massa libero</h2>
-									</header>
-									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-									<ul class="actions">
-										<li><a href="generic.html" class="button next">Get Started</a></li>
-									</ul>
-								</div>
-							</section>
+					</div>
 
 
 				<!-- Contact -->
