@@ -27,7 +27,7 @@
 					<section id="banner" class="style2">
 						<div class="inner">
 							<span class="image">
-								<img src="/cv/images/parcours/parcours-large.jpg" alt="" />
+								<img src="/cv/images/parcours/parcours-banner.jpg" alt="" />
 							</span>
 							<header class="major">
 								<h1>Parcours</h1>

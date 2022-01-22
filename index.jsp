@@ -45,7 +45,7 @@
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
-										<img src="/cv/images/presentation/presentation-medium.jpg" alt="Alexis durant une compétition de VTT, la ville de Fréjus s'étend en fond" />
+										<img src="/cv/images/presentation/presentation-element.jpg" alt="Alexis durant une compétition de VTT, la ville de Fréjus s'étend en fond" />
 									</span>
 									<header class="major">
 										<h3><a href="/cv/pages/presentation" class="link">Présentation</a></h3>
@@ -54,7 +54,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="/cv/images/parcours/parcours-medium.jpg" alt="Paysage de prairie au ciel bleu, un sentier s'y dessine" />
+										<img src="/cv/images/parcours/parcours-element.jpg" alt="Paysage de prairie au ciel bleu, un sentier s'y dessine" />
 									</span>
 									<header class="major">
 										<h3><a href="/cv/pages/parcours" class="link">Parcours</a></h3>
@@ -63,7 +63,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="images/hardskills/hardskills-medium.jpg" alt="Les lignes de code HTML ayant servi à afficher cette même image" />
+										<img src="images/hardskills/hardskills-element.jpg" alt="Les lignes de code HTML ayant servi à afficher cette même image" />
 									</span>
 									<header class="major">
 										<h3><a href="/cv/pages/hardskills" class="link">Hard Skills</a></h3>
@@ -72,7 +72,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="/cv/images/softskills/softskills-medium.jpg" alt="Un groupe de six personnes en contre jour d'un coucher de soleil" />
+										<img src="/cv/images/softskills/softskills-element.jpg" alt="Un groupe de six personnes en contre jour d'un coucher de soleil" />
 									</span>
 									<header class="major">
 										<h3><a href="/cv/pages/softskills" class="link">Soft Skills</a></h3>
@@ -81,7 +81,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="/cv/images/hobbies/hobbies-medium.jpg" alt="Alexis de profile portant une chemise et un foulard scout, un sac à dos et une casquette" />
+										<img src="/cv/images/hobbies/hobbies-element.jpg" alt="Alexis de profile portant une chemise et un foulard scout, un sac à dos et une casquette" />
 									</span>
 									<header class="major">
 										<h3><a href="/cv/pages/hobbies" class="link">Hobbies</a></h3>
@@ -90,7 +90,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="/cv/images/projets/projets-medium.jpg" alt="Circuits imprimés d'un Raspberry Pi" />
+										<img src="/cv/images/projets/projets-element.jpg" alt="Circuits imprimés d'un Raspberry Pi" />
 									</span>
 									<header class="major">
 										<h3><a href="/cv/pages/projets" class="link">Projets</a></h3>

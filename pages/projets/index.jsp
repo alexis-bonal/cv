@@ -28,7 +28,7 @@
 					<section id="banner" class="style6">
 						<div class="inner">
 							<span class="image">
-								<img src="/cv/images/projets/projets-large.jpg" alt="" />
+								<img src="/cv/images/projets/projets-banner.jpg" alt="" />
 							</span>
 							<header class="major">
 								<h1>Projets (page en travaux)</h1>

@@ -26,7 +26,7 @@
 					<section id="banner" class="style3">
 						<div class="inner">
 							<span class="image">
-								<img src="/cv/images/hardskills/hardskills-large.jpg" alt="" />
+								<img src="/cv/images/hardskills/hardskills-banner.jpg" alt="" />
 							</span>
 							<header class="major">
 								<h1>Hard Skills</h1>
