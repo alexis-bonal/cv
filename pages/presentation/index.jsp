@@ -7,7 +7,7 @@
 -->
 <html lang="fr">
 	<head>
-		<title>Présentation | Alexis BONAL</title>
+		<title>Présentation</title>
 		<%@ include file="/WEB-INF/include/head.jsp" %>
 	</head>
 	<body class="is-preload">
