@@ -31,7 +31,7 @@
 								<img src="/cv/images/projets/projets-banner.jpg" alt="" />
 							</span>
 							<header class="major">
-								<h1>Projets (page en travaux)</h1>
+								<h1>Projets</h1>
 							</header>
 							<div class="content">
 								<p>Mes réalisations terminées et en cours</p>
@@ -69,8 +69,7 @@
 											</span>
 										</div>
 										<span class="time">
-											<span>xxx 2021</span><br>
-											<span>xxx 2021</span>
+											<span>nov 2021</span>
 										</span>
 									</li>
 									<li>
@@ -83,8 +82,8 @@
 											</span>
 										</div>
 										<span class="time">
-											<span>xxx 2021</span><br>
-											<span>xxx 2021</span>
+											<span>mai 2021</span><br>
+											<span>jun 2021</span>
 										</span>
 									</li>
 									<li>
@@ -97,8 +96,8 @@
 											</span>
 										</div>
 										<span class="time">
-											<span>xxx 2021</span><br>
-											<span>xxx 2021</span>
+											<span>avr 2021</span><br>
+											<span>mai 2021</span>
 										</span>
 									</li>
 									<li>
@@ -111,8 +110,7 @@
 											</span>
 										</div>
 										<span class="time">
-											<span>xxx 2021</span><br>
-											<span>xxx 2021</span>
+											<span>avr 2021</span>
 										</span>
 									</li>
 									<li>
@@ -125,8 +123,8 @@
 											</span>
 										</div>
 										<span class="time">
-											<span>xxx 2020</span><br>
-											<span>xxx 2020</span>
+											<span>nov 2020</span><br>
+											<span>jan 2021</span>
 										</span>
 									</li>
 								</ul>
