@@ -44,11 +44,11 @@
 						<!-- Timeline -->
 							<div class="timeline2">
 								<ul>
-									<li class="scol">
+									<li>
 										<div>
 											<time>
 												2020 - 2022 (Lille)<br />
-												DUT Informatique
+												<span class="icon solid fa-graduation-cap"></span> DUT Informatique
 											</time>
 											<span>
 												IUT A de Lille<br />
@@ -64,7 +64,7 @@
 										<div>
 											<time>
 												2019 - 2021 (Beauvais)<br />
-												Coursier
+												<span class="icon solid fa-briefcase"></span> Coursier
 											</time>
 											<span>
 												Uber Eats<br />
@@ -80,7 +80,7 @@
 										<div>
 											<time>
 												2020 (Beauvais)<br />
-												Préparateur de Commandes
+												<span class="icon solid fa-briefcase"></span> Préparateur de Commandes
 											</time>
 											<span>
 												Alpha Direct Services<br />
@@ -96,7 +96,7 @@
 										<div>
 											<time>
 												2012 - 2020 (Beauvais)<br />
-												Collège et Lycée
+												<span class="icon solid fa-graduation-cap"></span> Collège et Lycée
 											</time>
 											<span>
 												Collège, Lycée du Saint Esprit<br />
@@ -112,7 +112,7 @@
 										<div>
 											<time>
 												2015 - 2016 (Beauvais)<br />
-												Responsable Service Informatique
+												<span class="icon solid fa-briefcase"></span> Responsable Service Informatique
 											</time>
 											<span>
 												Tidy Earphones<br />
@@ -128,7 +128,7 @@
 										<div>
 											<time>
 												2015 (Mouy)<br />
-												Stagiaire
+												<span class="icon solid fa-briefcase"></span> Stagiaire
 											</time>
 											<span>
 												Ets Guilbert<br />
