@@ -1,0 +1,166 @@
+body {
+    /** Initialisation des marges du corps **/
+    margin: 0;
+    padding: 0;
+    
+    background-color: black;
+    color: white;
+    font-family: source code pro;
+}
+
+header {    
+    width: 100%; /** recouvre la totalité de la largeur (l'unité vw est ici inutile) **/
+    height: 100vh; /** recouvre la totalité de la hauteur **/
+    
+    
+    background-color: black;
+    
+    display: flex; /** afin d'aligner facilement au centre de la pagee **/
+}
+
+header h1 {
+    margin: auto; /** header ayant 'display: flex', il sera ici directement centré verticalement et horizontalement **/
+    padding: 4vmin 10vmin;
+    
+    background-color: #264365;
+    border-radius: 10vmin 0 10vmin 0;
+    border: solid 5px #2cc223;
+    
+    display: flex;
+    flex-direction: column;
+}
+
+header h1 span {
+    
+    background: url(h1.gif) repeat;
+    -webkit-text-fill-color: transparent; /** afin de pouvoir voir le gif **/
+    -webkit-background-clip: text; /** délimite ce qui doit être vu du fond, ici le texte **/
+    background-attachment: scroll;
+    position: relative;
+    
+    font-size: 8.33vmin; /** (nombre de lettres de "Présentation") = 12; 100/12=8.33 **/
+ 
+}
+
+
+header h1 .isn {
+    font-size: 33.33vmin; /** (nombre de lettres de "ISN") = 3; 100/3=33.33 **/
+}
+
+nav {
+    display: flex;
+    flex-direction: row; /** un menu en ligne c'est mieux **/
+    justify-content: center;
+    
+    height: 100px;
+    
+    background-color: #264365;
+    border-bottom: solid 2px #2cc223;    
+}
+
+nav a {    
+    margin: 0;
+    padding: 20px;
+    
+    width: 20%;
+    height: 25px;
+    
+    text-decoration: none;
+    text-align: center;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    border-radius: 0 0 25px 25px;
+    border: solid 2px #264365;
+    border-top: solid 2px #2cc223;
+    font-size: 1.6em;
+    
+    color: white;
+    transition-property: color, background-color, border;
+    transition-duration: 1s;
+    transition-timing-function: ease-out;
+}
+
+nav a:hover {
+    transition-property: color, background-color, border;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in;
+    
+    color: #2cc223;
+    background-color: black;
+    border-top: solid 2px black;    
+    border-bottom: solid 2px #2cc223;    
+    border-left: solid 2px #2cc223;    
+    border-right: solid 2px #2cc223;    
+}
+
+.conteneur {
+    margin: 0;
+    padding: 50px;
+}
+
+article {
+    display: block;
+    margin: 0 20% 0 20%; /** Une des règles du web dit que l'on doit avoir un contenu centré **/
+    padding: 25px;
+    
+    background-color: #264365;
+    
+    border: solid 2px #2cc223;
+    border-radius: 15px;
+    
+}
+
+article img {
+    width: 30%;
+    text-align: right;
+}
+
+article h2 {
+    color: black;
+    font-size: 5em;
+    text-align: center;
+    text-shadow:        
+        1px 1px 0 #2cc223,
+        1px -1px 0 #2cc223,
+        -1px 1px 0 #2cc223,
+        -1px -1px 0 #2cc223;
+    font-variant: small-caps;
+}
+
+p {
+	font-size: 1.5em;
+}	
+
+footer {
+    margin: 0;
+    padding: 0;
+    
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100px;
+    
+    text-align: center;    
+    background-color: #264365;
+    color: white;
+    
+    border-top: solid 2px #2cc223;    
+}
+
+@media only screen and (max-width: 768px) {
+
+nav {
+    flex-wrap: wrap;
+    height: 100vh;
+}
+
+nav a {
+    width: 100vw;
+    height: 13vh;
+}
+
+article {
+    margin: 0;
+}
+
+}
