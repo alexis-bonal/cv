@@ -30,10 +30,13 @@
 									<header class="major">
 										<h1>Le sens du service</h1>
 									</header>
-									<span class="image main"><img src="/cv/images/softskills/softskills-large.jpg" alt="" /></span>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-									<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+									<span class="image main"><img src="/cv/images/softskills/service-banner.jpg" alt="" /></span>
+									<p>L'une des premières fois où j'ai pû concrêtement rendre service aura été lors de notre partenariat avec l'Ordre de Malte qui organisait des petits déjeuner pour les personnes sans logement. Le dimanche matin, ils venait se réchauffer et prendre des viennoiseries récupérées des invendus de la veille.</p>
+									<p>Toujours durant mes années scout, nous étions amenés à réaliser des extra-jobs. Ces travaux servant au financement de nos camps d'été. Nous réalisions du jardinage ou du service durant les mariages lors des beaux jours. Et lors des périodes de noël, nous étions présents dans les magasins pour emballer les cadeaux.</p>
+									<p>Une fois arrivé chez les compagnons, nous avons réalisé des partenariats avec des associations situées dans la région où nous partions durant notre camp d'été. La première année, ce fût avec le Moulin de la Laurède en Ariège où nous avons aidé à l'entretiens des chemins de randonné.<br />
+									   La seconde année alors que nous devions aller au Sri Lanka, nous sommes finalement partis près d'Etretat pour aider l'association Rosalie à l'animation d'une colonie de vacances pour des enfants provenant de milieux sociaux.<br />
+									   Finalement, la troisième année, nous avons pû réaliser un camp en Grèce. Avec l'association des soeurs de la charité, nous avons réaménager un espace pour les jeunes de la paroisse et nous avons réalisé divers autres travaux de peinture et d'animation de colonie.
+									</p>
 								</div>
 							</section>
 

@@ -30,10 +30,10 @@
 									<header class="major">
 										<h1>La Gestion de Groupe</h1>
 									</header>
-									<span class="image main"><img src="/cv/images/softskills/softskills-large.jpg" alt="" /></span>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-									<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+									<span class="image main"><img src="/cv/images/softskills/groupe-banner.jpg" alt="" /></span>
+									<p>Durant mes années de scoutisme, j’ai régulièrement été amené à être chef d’équipe. Ce rôle demande de faire attention à chacun des membres de l’équipe pour que le groupe se porte au mieux.</p>
+									<p>J’ai également été plusieurs fois délégué de classe durant le lycée. Cette responsabilité demande d’être à l’écoute de ses camarades mais aussi de ses professeurs. Durant les conseils de classe il est important d’être le lien entre les deux. De plus il faut savoir  trouver des solutions aux imprévus et choisir le bon compromis pouvant satisfaire le plus de monde possible selon les situations.<br />
+										Encore aujourd’hui, je suis délégué pour mon groupe du DUT.</p>
 								</div>
 							</section>
 

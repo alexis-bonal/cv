@@ -46,14 +46,16 @@
 							<div class="timeline2">
 								<ul>
 									<li>
-										<div>
-											<time>
-												3Dioptres
-											</time>
-											<span>
-												Un moteur 3D en Java.
-											</span>
-										</div>
+										<a href="https://github.com/alexisbonal/3Dioptres" target="_blank">
+											<div>
+												<time>
+													3Dioptres
+												</time>
+												<span>
+													Un moteur 3D en Java.
+												</span>
+											</div>
+										</a>
 										<span class="time">
 											<span>oct 2021</span><br />
 											<span>jan 2022</span>
@@ -87,14 +89,16 @@
 										</span>
 									</li>
 									<li>
-										<div>
-											<time>
-												Sokoban
-											</time>
-											<span>
-												Réalisation d'un Sokoban en mode textuel.
-											</span>
-										</div>
+										<a href="https://github.com/alexisbonal/Sokoban" target="_blank">
+											<div>
+												<time>
+													Sokoban
+												</time>
+												<span>
+													Réalisation d'un Sokoban en mode textuel.
+												</span>
+											</div>
+										</a>
 										<span class="time">
 											<span>avr 2021</span><br>
 											<span>mai 2021</span>
@@ -114,14 +118,16 @@
 										</span>
 									</li>
 									<li>
-										<div>
-											<time>
-												Worlderfull
-											</time>
-											<span>
-												Jeu Ludo-Éducatif en mode textuel dans un univers fantastique.
-											</span>
-										</div>
+										<a href="https://github.com/alexisbonal/Worlderfull" target="_blank">
+											<div>
+												<time>
+													Worlderfull
+												</time>
+												<span>
+													Jeu Ludo-Éducatif en mode textuel dans un univers fantastique.
+												</span>
+											</div>
+										</a>
 										<span class="time">
 											<span>nov 2020</span><br>
 											<span>jan 2021</span>

@@ -60,7 +60,7 @@
 								</section>
 								<section>
 									<a href="service.jsp" class="image">
-										<img src="/cv/images/softskills/softskills-element.jpg" alt="" data-position="top center" />
+										<img src="/cv/images/softskills/service-element.jpg" alt="" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -76,7 +76,7 @@
 								</section>
 								<section>
 									<a href="groupe.jsp" class="image">
-										<img src="/cv/images/softskills/softskills-element.jpg" alt="" data-position="25% 25%" />
+										<img src="/cv/images/softskills/groupe-element.jpg" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
