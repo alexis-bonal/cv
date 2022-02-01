@@ -8,9 +8,9 @@
 <html lang="fr">
 	<head>
 		<title>Projets</title>
-		<link rel="stylesheet" href="/cv/assets/css/timeline6.css" />
+		<link rel="stylesheet" href="/assets/css/timeline6.css" />
 		<%@ include file="/WEB-INF/include/head.jsp" %>
-		<script src="/cv/assets/js/timeline.js" defer></script>
+		<script src="/assets/js/timeline.js" defer></script>
 	</head>
 	<body class="is-preload">
 
@@ -28,7 +28,7 @@
 					<section id="banner" class="style6">
 						<div class="inner">
 							<span class="image">
-								<img src="/cv/images/projets/projets-banner.jpg" alt="" />
+								<img src="/images/projets/projets-banner.jpg" alt="" />
 							</span>
 							<header class="major">
 								<h1>Projets</h1>

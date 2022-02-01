@@ -30,7 +30,7 @@
 									<header class="major">
 										<h1>L'Esprit d'Équipe & Savoir Vivre Ensemble</h1>
 									</header>
-									<span class="image main"><img src="/cv/images/softskills/softskills-banner.jpg" alt="" /></span>
+									<span class="image main"><img src="/images/softskills/softskills-banner.jpg" alt="" /></span>
 									<p>Durant nos camps d'été, chez les scouts, nous avons l'habitude de dormir, manger et vivre en équipe. Cela crée de solides amitiés et l'on apprend à connaître l'autre.</p>
 									<p>J'ai rejoins les bénévoles de l'Afev entant que Kapseur à la rentrée 2021. Une Kaps, c'est une colocation de jeunes motivés à réaliser des projets pour leur quartier. Ensemble nous organisons des évènements et aidons les associations du quartier. Le but étant de faire vivre d'avantage ce lieu et rencontrer ses voisins pour créer de nouveaux partages.</p>
 								</div>

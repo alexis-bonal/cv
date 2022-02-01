@@ -30,7 +30,7 @@
 									<header class="major">
 										<h1>Le sens du service</h1>
 									</header>
-									<span class="image main"><img src="/cv/images/softskills/service-banner.jpg" alt="" /></span>
+									<span class="image main"><img src="/images/softskills/service-banner.jpg" alt="" /></span>
 									<p>L'une des premières fois où j'ai pû concrêtement rendre service aura été lors de notre partenariat avec l'Ordre de Malte qui organisait des petits déjeuner pour les personnes sans logement. Le dimanche matin, ils venait se réchauffer et prendre des viennoiseries récupérées des invendus de la veille.</p>
 									<p>Toujours durant mes années scout, nous étions amenés à réaliser des extra-jobs. Ces travaux servant au financement de nos camps d'été. Nous réalisions du jardinage ou du service durant les mariages lors des beaux jours. Et lors des périodes de noël, nous étions présents dans les magasins pour emballer les cadeaux.</p>
 									<p>Une fois arrivé chez les compagnons, nous avons réalisé des partenariats avec des associations situées dans la région où nous partions durant notre camp d'été. La première année, ce fût avec le Moulin de la Laurède en Ariège où nous avons aidé à l'entretiens des chemins de randonné.<br />
