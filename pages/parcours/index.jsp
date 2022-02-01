@@ -100,7 +100,7 @@
 											</time>
 											<span>
 												Collège, Lycée du Saint Esprit<br />
-												Parcours scolaire durant lequel j'ai obtenu le brevet et le BAC.
+												Parcours scolaire durant lequel j'ai obtenu le brevet et un BAC S.
 											</span>
 										</div>
 										<span class="time">
