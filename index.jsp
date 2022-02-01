@@ -45,7 +45,7 @@
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
-										<img src="/images/presentation/presentation-element.jpg" alt="Alexis durant une compétition de VTT, la ville de Fréjus s'étend en fond" />
+										<img src="/images/presentation/presentation-element.jpg" alt="Alexis Bonal souriant" />
 									</span>
 									<header class="major">
 										<h3><a href="/pages/presentation" class="link">Présentation</a></h3>
@@ -54,7 +54,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="/images/parcours/parcours-element.jpg" alt="Paysage de prairie au ciel bleu, un sentier s'y dessine" />
+										<img src="/images/parcours/parcours-element.jpg" alt="Carte IGN montrée par une main" />
 									</span>
 									<header class="major">
 										<h3><a href="/pages/parcours" class="link">Parcours</a></h3>
@@ -81,7 +81,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="/images/hobbies/hobbies-element.jpg" alt="Alexis de profile portant une chemise et un foulard scout, un sac à dos et une casquette" />
+										<img src="/images/hobbies/hobbies-element.jpg" alt="Alexis Bonal de profile portant l'uniforme scout" />
 									</span>
 									<header class="major">
 										<h3><a href="/pages/hobbies" class="link">Hobbies</a></h3>

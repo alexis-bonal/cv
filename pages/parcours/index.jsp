@@ -27,7 +27,7 @@
 					<section id="banner" class="style2">
 						<div class="inner">
 							<span class="image">
-								<img src="/images/parcours/parcours-banner.jpg" alt="" />
+								<img src="/images/parcours/parcours-banner.jpg" alt="Carte IGN montrée par une main" />
 							</span>
 							<header class="major">
 								<h1>Parcours</h1>

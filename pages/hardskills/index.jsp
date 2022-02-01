@@ -26,7 +26,7 @@
 					<section id="banner" class="style3">
 						<div class="inner">
 							<span class="image">
-								<img src="/images/hardskills/hardskills-banner.jpg" alt="" />
+								<img src="/images/hardskills/hardskills-banner.jpg" alt="Les lignes de code HTML ayant servi à afficher cette même image" />
 							</span>
 							<header class="major">
 								<h1>Hard Skills</h1>

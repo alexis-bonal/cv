@@ -26,7 +26,7 @@
 					<section id="banner" class="style4">
 						<div class="inner">
 							<span class="image">
-								<img src="/images/softskills/softskills-banner.jpg" alt="" />
+								<img src="/images/softskills/softskills-banner.jpg" alt="Un groupe de six personnes en contre jour d'un coucher de soleil" />
 							</span>
 							<header class="major">
 								<h1>Soft Skills</h1>
@@ -44,7 +44,7 @@
 							<section id="one" class="spotlights">
 								<section>
 									<a href="vivre-ensemble.jsp" class="image">
-										<img src="/images/softskills/softskills-element.jpg" alt="" data-position="center center" />
+										<img src="/images/softskills/softskills-element.jpg" alt="Un groupe de six personnes en contre jour d'un coucher de soleil" data-position="center center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -60,7 +60,7 @@
 								</section>
 								<section>
 									<a href="service.jsp" class="image">
-										<img src="/images/softskills/service-element.jpg" alt="" data-position="top center" />
+										<img src="/images/softskills/service-element.jpg" alt="Deux scouts portant une malle" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -76,7 +76,7 @@
 								</section>
 								<section>
 									<a href="groupe.jsp" class="image">
-										<img src="/images/softskills/groupe-element.jpg" alt="" data-position="25% 25%" />
+										<img src="/images/softskills/groupe-element.jpg" alt="Un groupe de scouts en cercle écoutant une personne au centre" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">

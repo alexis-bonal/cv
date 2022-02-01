@@ -28,7 +28,7 @@
 					<section id="banner" class="style6">
 						<div class="inner">
 							<span class="image">
-								<img src="/images/projets/projets-banner.jpg" alt="" />
+								<img src="/images/projets/projets-banner.jpg" alt="Circuits imprimés d'un Raspberry Pi" />
 							</span>
 							<header class="major">
 								<h1>Projets</h1>

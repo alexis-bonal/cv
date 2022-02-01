@@ -26,7 +26,7 @@
 					<section id="banner" class="style5">
 						<div class="inner">
 							<span class="image">
-								<img src="/images/hobbies/hobbies-banner.jpg" alt="" />
+								<img src="/images/hobbies/hobbies-banner.jpg" alt="Alexis Bonal de profile portant l'uniforme scout" />
 							</span>
 							<header class="major">
 								<h1>Hobbies</h1>
@@ -44,7 +44,7 @@
 						<section id="one" class="spotlights">
 							<section>
 								<a href="#" class="image">
-									<img src="/images/hobbies/vtt-element.jpg" alt="" data-position="center center" />
+									<img src="/images/hobbies/vtt-element.jpg" alt="Alexis sur son vélo à l'arrivée du ROC d'Azur" data-position="center center" />
 								</a>
 								<div class="content">
 									<div class="inner">
@@ -60,7 +60,7 @@
 							</section>
 							<section>
 								<a href="#" class="image">
-									<img src="/images/hobbies/hobbies-element.jpg" alt="" data-position="top center" />
+									<img src="/images/hobbies/hobbies-element.jpg" alt="Alexis Bonal de profile portant l'uniforme scout" data-position="top center" />
 								</a>
 								<div class="content">
 									<div class="inner">
@@ -76,7 +76,7 @@
 							</section>
 							<section>
 								<a href="#" class="image">
-									<img src="/images/hobbies/informatique-element.jpg" alt="" data-position="25% 25%" />
+									<img src="/images/hobbies/informatique-element.jpg" alt="Matériel électronique : écran LED, planche à pain, Raspberry Pi et ordinateur portable" data-position="25% 25%" />
 								</a>
 								<div class="content">
 									<div class="inner">
