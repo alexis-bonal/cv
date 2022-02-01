@@ -6,6 +6,8 @@
         <web-resource-collection>
             <web-resource-name>Protected Area - Allow methods</web-resource-name>
             <url-pattern>/.git/*</url-pattern>
+            <url-pattern>/.gitattributes</url-pattern>
+            <url-pattern>/pages/default/*</url-pattern>
             <http-method>DELETE</http-method>
             <http-method>GET</http-method>
             <http-method>POST</http-method>
