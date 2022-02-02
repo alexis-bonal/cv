@@ -3,7 +3,7 @@
 <%@ page import="java.text.SimpleDateFormat" %>
 
 <%
-    String fileName = "/var/lib/tomcat9/webapps/ROOT";
+    String fileName = "/var/lib/tomcat9/webapps/ROOT/.git";
     File file = new File(fileName);
     SimpleDateFormat sdf = new SimpleDateFormat("EEEE dd MMMM à HH'h'mm");
 %>
